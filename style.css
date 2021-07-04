@@ -1,0 +1,104 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    font-weight: normal;
+}
+
+body{
+    background-color: #E5E5E5;
+}
+
+.container{
+    border-radius: 15px;
+}
+.navbar-brand h3{
+    display: inline;
+    margin-left: 10px;
+}
+
+.player-blog{
+    background-color: white;
+    margin: 40px auto;
+}
+
+.players h3, .blog h3, .courses h3{
+    font-size: 24px;
+    color: #562EFF;
+    font-weight: 600;
+    padding-bottom: 20px;
+}
+
+.player-blog p{
+    display: inline;
+}
+
+.col-md-4{
+    margin-bottom: 30px;
+}
+
+.col-md-4 p{
+    font-weight: 600;
+}
+
+/* Blog Section */
+.mar{
+    margin-bottom: 20px;
+}
+
+/* Courses Begins */
+
+.courses{
+    background-color: white;
+    margin-top: 40px;
+}
+
+.card img{
+    padding: 5px;
+}
+
+.card-body h5{
+    font-weight: 600;
+}
+
+.card-body img{
+    margin-left: -7px;
+}
+.card-text{
+    font-size: 15px;
+    font-weight: 400px;
+    color: #ED6B4F;
+}
+
+.card-footer{
+    background-color: white;
+    border: none;
+}
+.rating{
+    display: inline;
+    color: gray;
+}
+
+.hour{
+    display: inline;
+    float: right;
+    margin-right: 4px;
+    margin-top: -5px;
+} 
+.hour p{
+    display: inline;
+    color: #ED6B4F;
+    text-align: center;
+}
+.hour{
+    background-color: #FFE4E8;
+    padding: 5px;
+    border-radius: 25px;
+}
+
+/* Footer */
+
+.footer{
+    margin-top: 20px;
+    text-align: center;
+    color: black;
+}
+
